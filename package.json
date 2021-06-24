@@ -1,0 +1,23 @@
+{
+  "name": "modulo1",
+  "version": "1.0.0",
+  "description": "a couple exercises from a PoloTic course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kusznieryk/polotic_module1.git"
+  },
+  "keywords": [
+    "typescript",
+    "javascript"
+  ],
+  "author": "Eduardo Kusznieryk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kusznieryk/polotic_module1/issues"
+  },
+  "homepage": "https://github.com/kusznieryk/polotic_module1#readme"
+}
